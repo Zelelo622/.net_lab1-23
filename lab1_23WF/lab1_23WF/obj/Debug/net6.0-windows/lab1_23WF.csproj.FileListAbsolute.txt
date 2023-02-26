@@ -1,0 +1,17 @@
+D:\Coding\Programming\C#\lab1\lab1_23WF\lab1_23WF\bin\Debug\net6.0-windows\lab1_23WF.exe
+D:\Coding\Programming\C#\lab1\lab1_23WF\lab1_23WF\bin\Debug\net6.0-windows\lab1_23WF.deps.json
+D:\Coding\Programming\C#\lab1\lab1_23WF\lab1_23WF\bin\Debug\net6.0-windows\lab1_23WF.runtimeconfig.json
+D:\Coding\Programming\C#\lab1\lab1_23WF\lab1_23WF\bin\Debug\net6.0-windows\lab1_23WF.dll
+D:\Coding\Programming\C#\lab1\lab1_23WF\lab1_23WF\bin\Debug\net6.0-windows\lab1_23WF.pdb
+D:\Coding\Programming\C#\lab1\lab1_23WF\lab1_23WF\obj\Debug\net6.0-windows\lab1_23WF.csproj.AssemblyReference.cache
+D:\Coding\Programming\C#\lab1\lab1_23WF\lab1_23WF\obj\Debug\net6.0-windows\lab1_23WF.Form1.resources
+D:\Coding\Programming\C#\lab1\lab1_23WF\lab1_23WF\obj\Debug\net6.0-windows\lab1_23WF.csproj.GenerateResource.cache
+D:\Coding\Programming\C#\lab1\lab1_23WF\lab1_23WF\obj\Debug\net6.0-windows\lab1_23WF.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\Programming\C#\lab1\lab1_23WF\lab1_23WF\obj\Debug\net6.0-windows\lab1_23WF.AssemblyInfoInputs.cache
+D:\Coding\Programming\C#\lab1\lab1_23WF\lab1_23WF\obj\Debug\net6.0-windows\lab1_23WF.AssemblyInfo.cs
+D:\Coding\Programming\C#\lab1\lab1_23WF\lab1_23WF\obj\Debug\net6.0-windows\lab1_23WF.csproj.CoreCompileInputs.cache
+D:\Coding\Programming\C#\lab1\lab1_23WF\lab1_23WF\obj\Debug\net6.0-windows\lab1_23WF.dll
+D:\Coding\Programming\C#\lab1\lab1_23WF\lab1_23WF\obj\Debug\net6.0-windows\refint\lab1_23WF.dll
+D:\Coding\Programming\C#\lab1\lab1_23WF\lab1_23WF\obj\Debug\net6.0-windows\lab1_23WF.pdb
+D:\Coding\Programming\C#\lab1\lab1_23WF\lab1_23WF\obj\Debug\net6.0-windows\lab1_23WF.genruntimeconfig.cache
+D:\Coding\Programming\C#\lab1\lab1_23WF\lab1_23WF\obj\Debug\net6.0-windows\ref\lab1_23WF.dll
